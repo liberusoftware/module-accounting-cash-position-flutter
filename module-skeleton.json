@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-position-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-cash-position",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_cash_position_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/cash-position.md",
+  "presentationPlan": "projects/accounting/flutter/cash-position.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
